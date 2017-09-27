@@ -5,7 +5,6 @@
 #container{
 	max-width: 1000px;
 	margin:0 auto;
-	background-color: #649eff;
 }
 .row, footer{
 	clear:both;
@@ -14,24 +13,21 @@
 header{
 	float:left;
 
-
+}
+header{
+	float:left;
 }
 nav{
 	float:right;
-	width:100%;
 }
 nav li{
 	display:inline-block;
 	margin-right:1em;
-
 }
-nav li:last-child{
+nav li: last-child{
 	margin-right:0;
 }
-body{
-	background-color: #649eff;
-	background-image: url("BowerBirdNestcopy.jpg") max-width:100%;
-}
+
 .col{
 	float:left;
 	margin-right:4%;
@@ -54,43 +50,4 @@ body{
 }
 .caption li{
 
-}
-.mycarousel{
-background-color: #649eff;	
-width: 200px; height:200px;
-margin:0 auto;
-}
-div{
-		  background-image:url("Mmp-460/BowerBirdNestcopy.jpg");
-	   background-size: 80px 60px;
-}
-
-ul {
-    background-color: #92bbff;
-    list-style-type: none;
-    margin:0;
-    padding:0;
-    overflow: hidden;
-    width:100%;
-
-
-}
-
-p {
-	font-size: 25px;
-}
-li{
-	float:left;
-
-}
-li a{
-	display:block;
-	color:white;
-	text-align:center;
-	padding:14px 16px;
-	text-decoration: none;
-
-}
-h1{
-	color:blue;
 }
