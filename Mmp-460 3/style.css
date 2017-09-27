@@ -1,0 +1,99 @@
+*{
+	margin:0;
+	padding:0;
+}
+#container{
+	max-width: 1000px;
+	margin:0 auto;
+	background-color: #649eff;
+}
+header{
+	float:left;
+
+
+}
+
+
+
+h1{
+	font size:100px;
+}
+}
+body{
+}
+.col{
+	float:left;
+	margin-right:4%;
+	width:48%;
+	position: relative;
+	margin-bottom:4%;
+}
+.col:last-child{
+	margin-right:0;
+}
+.responsive-img{
+	width:100%;
+}
+.caption{
+	background-color: rgba(0, 0, 0, 0.5);
+	color:#fff;
+	position: absolute;
+	bottom:4px;
+	width:100%;
+}
+.caption li{
+
+}
+.mycarousel{
+background-color: #649eff;	
+width: 200px; height:200px;
+margin:0 auto;
+}
+div{
+		  background-image:url("Mmp-460/BowerBirdNestcopy.jpg");
+	   background-size: 80px 60px;
+}
+
+
+p {
+	font-size: 25px;
+}
+li{
+	float:left;
+	color:black;
+
+
+}
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-family: 'Noto Sans', sans-serif;
+	font-size: 15px;
+	background-color: #92bbff;
+
+
+}
+}
+@font-face{
+	font-family: 'Nanami', sans-serif;
+	src:url local('nanami');
+}
+@font-face{
+	font-family:'Noto Sans' sans-serif;
+	src:local('Noto Sans');
+}
+img{
+	float:right;
+}
+.container {
+    float:left;
+    position: relative;
+    width: 100%;
+}
+nav{
+	width:100%;
+	
+}
